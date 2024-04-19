@@ -1,0 +1,19 @@
+.gallery-columns-3 .gallery-item {
+    max-width: 32.33%!important;
+}
+
+.elementor-image-gallery .gallery-item img {
+    width: 400px!important;
+    height: 380px!important;
+}
+
+.elementor-widget-container{
+    display: flex!important;
+    flex-wrap: wrap!important;
+}
+
+@media (min-width: 768px) {
+.elementor-image-gallery .gallery-columns-3 .gallery-item {
+    max-width: 32.33%!important;
+}
+}
